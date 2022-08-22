@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653342566 source:c:\users\bastian\desktop\competitiva\bucket_sort\main.cpp
+	<algorithm>
+	<iostream>
+	<vector>
+
